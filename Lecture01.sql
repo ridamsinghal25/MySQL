@@ -1,3 +1,10 @@
+-- Four constraints of SQL
+-- Not Null
+-- Primary Key
+-- Unique
+-- Foreign Key
+
+
 -- Command to show all the databases
 SHOW DATABASES;
 
